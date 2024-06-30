@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://test-server-34uj.onrender.com",
+  "proxy": "http://localhost:10000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
